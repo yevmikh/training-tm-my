@@ -1,3 +1,13 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Open', sans-serif;
+  background-color: var(--background-color);
+  color: #fff;
+  font-size: 18px;
+}
 .visually-hidden {
   position: absolute;
   width: 1px;
